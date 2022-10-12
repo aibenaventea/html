@@ -2,6 +2,10 @@ h1 {
     color: rebeccapurple;
     font-size: 50px;
 }
+h2 {
+    color: cyan;
+    background-color: grey;
+}
 .is-centered{
     text-align: center;
 }
