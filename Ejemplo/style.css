@@ -18,3 +18,12 @@ h1 {
     margin-top: 140px;
     margin-left: 50px;
 }
+
+* {
+    outline: 1px solid red;
+}
+
+.quote p {
+    color: darkslategrey;
+    font-style: italic;
+}
