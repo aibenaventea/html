@@ -1,0 +1,34 @@
+main{
+    margin: 50px 50px;
+}
+#search{
+    width: 125px;
+    height: 25px;
+    background-color:whitesmoke;
+    border-color: lightseagreen;
+    border-radius: 20px;
+    text-align: center;
+    color: lightseagreen;
+    font-weight: bolder;
+    
+}
+#mas{
+    background-color:lightseagreen;
+    border-color: lightseagreen;
+    border-radius: 50%;
+    text-align:center;
+    color: whitesmoke;
+    font-size: large;
+    font-weight: lighter;
+}
+#create{
+    width: 160px;
+    height: 25px;
+    background-color:dodgerblue;
+    border-color: black;
+    text-align: center;
+    color: whitesmoke;
+    font-weight:normal;
+    box-shadow: 5px 5px 5px black;
+    
+}
